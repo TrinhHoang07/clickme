@@ -70,6 +70,10 @@
 }
 
 .ok-acc {
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    line-height: 32px;
     border: none;
     width: 90px;
     height: 32px;
